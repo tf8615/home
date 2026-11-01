@@ -11,7 +11,7 @@
   },
   {
     "icon": "Compass",
-    "name": "SBTI",
+    "name": "SBTI测试",
     "link": "https://sbti.55600.top/"
   },
   {
@@ -20,13 +20,18 @@
     "link": "https://55600.top/bg/"
   },
   {
-    "icon": "GIT",
-    "name": "GIT简易指南",
-    "link": "https://i.55600.top/git-guide/"
+    "icon": "GameControllerOutline",
+    "name": "跳跃小恐龙",
+    "link": "https://55600.top/klgame/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "TVbox编辑器",
-    "link": "https://i.55600.top/CatVodTVJsonEditor/"
+    "icon": "RoseOutline",
+    "name": "对对碰",
+    "link": "https://55600.top/luckystar/"
+  }
+  {
+    "icon": "RoseOutline",
+    "name": "玫瑰花",
+    "link": "https://55600.top/rose/"
   }
 ]
